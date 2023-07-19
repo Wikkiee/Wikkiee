@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm WikkiE</h1>
 <h3 align="center">A passionate full-stack web-developer from India, who loves to build cool projects and work in a team.</h3>
 
-- 🔭 I’m currently working on [Python discord bot](https://github.com/Wikkiee/B-Zone-RPG-Discord)
-
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wikkiee](https://github.com/Wikkiee)
 
-- 💬 Ask me about **react, discord.py, etc.**
+- 💬 Ask me about **MERN Stack, MySQL, discord.py, Python, Java **
 
 - 📫 How to reach me **_WikkiE_#7843**
 
