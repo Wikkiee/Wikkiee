@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wikkiee](https://github.com/Wikkiee)
 
-- 💬 Ask me about **MERN Stack, MySQL, discord.py, Python, Java **
+- 💬 Ask me about **MERN Stack, MySQL, Python, Java **
 
 - 📫 How to reach me **_WikkiE_#7843**
 
