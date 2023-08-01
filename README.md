@@ -4,11 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wikkiee](https://github.com/Wikkiee)
-
 - 💬 Ask me about **MERN Stack, MySQL, Python, Java **
-
-- 📫 How to reach me **_WikkiE_#7843**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
