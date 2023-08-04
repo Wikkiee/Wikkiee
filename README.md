@@ -22,7 +22,6 @@ I'm an **Undergrad Student🎓 [@HIT Coimbatore](http://www.hit.edu.in/)** pursu
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🕸️ Web Application Projects
-  - 📊 Machine Learning & Data Science
   - 🛠 DIY Arduino Projects
   - 🤖 Robotics
 - 👯 I’m looking to collaborate on making hardware projects with Arduino 
