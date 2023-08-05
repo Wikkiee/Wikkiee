@@ -52,6 +52,6 @@ I'm an **Undergrad Student🎓 @HIT - Coimbatore** pursuing ECE. I'm a **Tech En
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=wikkiee&theme=dark&show_icons=true" alt="WikkiE's Github Stats" />
- <img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&show_icons=true&layout=compact" alt="WikkiE's Github Top languages" />
+ <img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikkiee&theme=dark&show_icons=true&layout=compact" alt="WikkiE's Github Top languages" />
   
 </p>
