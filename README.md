@@ -30,7 +30,7 @@ I'm an **Undergrad Student🎓 @HIT - Coimbatore** pursuing ECE. I'm a **Tech En
 
   
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Asus%20Tuf-111?&style=flat-square&logo=ASUS"> <img src="https://img.shields.io/badge/Windows-111?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Edge-111?&style=flat-square&logo=microsoft-edge&logoColor=0078d7"> <img src="https://img.shields.io/badge/VS Code-111?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Hyper%20Terminal-111?&style=flat-square&logo=hyper&logoColor=white">  <img src="https://img.shields.io/badge/Spotify-111?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<img src="https://img.shields.io/badge/Asus%20Tuf-111?&style=flat-square&logo=ASUS"> <img src="https://img.shields.io/badge/Windows-111?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-111?&style=flat-square&logo=google-chrome&logoColor=fbbf12"> <img src="https://img.shields.io/badge/VS Code-111?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Hyper%20Terminal-111?&style=flat-square&logo=hyper&logoColor=white">  <img src="https://img.shields.io/badge/Spotify-111?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 ### ⚙️ Some Tools and Tech I use
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
