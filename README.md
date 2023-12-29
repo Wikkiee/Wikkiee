@@ -5,6 +5,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/wikkiee/)](https://github.com/wikkiee/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wikkie-m/)](https://www.linkedin.com/in/wikkie-m)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vigneshrgm962950@gmail.com)](mailto:vigneshrgm962950@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wikkie.me-blue)](https://www.wikkie.me/)
 
 
 
