@@ -19,7 +19,7 @@ I'm an **Undergrad Student🎓 @HIT - Coimbatore** pursuing ECE. I'm a **Tech En
 
 - 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🕸️ Web Application Projects
@@ -47,7 +47,6 @@ I'm an **Undergrad Student🎓 @HIT - Coimbatore** pursuing ECE. I'm a **Tech En
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/a9e049ade1147226016feb1ab0024b7e09cf5e6ce7921aa9e7326942f98c71dd/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667"></code>
 
 
 ### 🚀 Quick Stats
