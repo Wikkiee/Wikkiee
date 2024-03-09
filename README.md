@@ -23,8 +23,8 @@ I'm an **Undergrad Student🎓 @HIT - Coimbatore** pursuing ECE. I'm a **Tech En
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🕸️ Web Application Projects
-  - 🛠 DIY Arduino Projects
-  - 🤖 Robotics
+  - 🛠  Arduino Projects
+  - 🤖 Automation
 - 👯 I’m looking to collaborate on making hardware projects with Arduino 
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about MERN Stack, Python, Arduino 
