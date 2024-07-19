@@ -10,7 +10,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 @HIT - Coimbatore** completed a Bachelor's of Engineering in ECE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I have completed my Bachelor's of Engineering in ECE. As a tech enthusiast 💻 😃, I'm passionate about exploring and working with new technologies. I enjoy creating innovative and purposeful products. <br/><br/>
 
 
 
